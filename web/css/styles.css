@@ -115,21 +115,21 @@ img {
     margin-top: 20px;
 }
 
-.header_menu ul li  a {
+.header_menu ul li a {
     color: #000;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .1em;
-    font-size: 14.px;
+    font-size: 14px;
     line-height: 20px;
     padding: 10px 0;
     transition: all .3s ease;
 }
-.header_menu ul li  a:hover {
+.header_menu ul li a:hover {
     color: #fff;
 }
 
-.header_menu ul li  a.menu_ativo {
+.header_menu ul li a.menu_ativo {
     color: #fff;
 }
 
